@@ -1,0 +1,7 @@
+{
+  "name": "appbm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
